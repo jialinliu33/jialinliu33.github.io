@@ -1,10 +1,8 @@
 
 <html>
 
-<!-- <head>
-    <meta charset="utf-8" />
-    <title>Jialin Liu - Dalian University of Technology</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+
+    <title>Jialin Liu - DUT</title>
 
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="css/font-awesome.min.css" />
