@@ -1,10 +1,10 @@
 
 <html>
 
-<head>
+<!-- <head>
     <meta charset="utf-8" />
     <title>Jialin Liu - Dalian University of Technology</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
 
     <!-- Font Awesome Icons -->
     <link rel="stylesheet" href="css/font-awesome.min.css" />
@@ -29,7 +29,7 @@
     <script src="js/menucollapse.js"></script>
     <!-- <script type="text/javascript" src="js/arrow78.js"></script> -->
     <script type="text/javascript" src="js/custom.js"></script>
-</head>
+<!-- </head> -->
 
 <body id="page-top" class="index">
 
