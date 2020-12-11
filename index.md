@@ -17,7 +17,6 @@
 
   <body>
     <div style="max-width:1000px" class="container">
-
       <div class="page-header">
         <h2>Jialin Liu</h2>
            <p class="lead">Ph.D. Candidate @ Dalian University of Technology</p>
@@ -36,7 +35,6 @@
           </div>
       </div>
       <hr style="clear:both"/>
-      
       <h3>Publications</h3>
       <p><a href="https://dl.acm.org/doi/pdf/10.1145/3384419.3430780">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
