@@ -23,7 +23,7 @@
            <p class="lead">Ph.D. Candidate @ Dalian University of Technology</p>
       </div>
       <div class="content">
-          <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
+          <img src="images/jialinliu.JPG" class="img-responsive col-md-5"/>
           <div class="col-md-7">
           <p>I'm currently a fourth-year Ph.D. student at School of Software, Dalian University of Technology under the supervision of <a href="http://faculty.dlut.edu.cn/leiwang">Prof. Lei Wang</a>.</p>
           <p>I'm also a visiting Ph.D. student at College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of <a href="https://people.cs.umass.edu/~jxiong/">Prof. Jie Xiong</a>, from 2019 to 2021.</p>
