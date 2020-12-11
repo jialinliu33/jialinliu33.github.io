@@ -7,14 +7,9 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-
     <title>Jialin Liu - DUT</title>
-
-
     <link href="css/bootstrap.min.css" rel="stylesheet">
-
   </head>
-
   <body>
     <div style="max-width:1000px" class="container">
       <div class="page-header">
@@ -71,9 +66,9 @@
       HealthCom 2017
       </p>
       <p>
-        <a href="https://ieeexplore.ieee.org/abstract/document/8210800">A Research on CSI-based human Motion Detection in Complex Scenarios</a><br/>
-        <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
-        HealthCom 2017
+      <a href="https://ieeexplore.ieee.org/abstract/document/8210800">A Research on CSI-based human Motion Detection in Complex Scenarios</a><br/>
+      <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
+      HealthCom 2017
       </p>
     </div> 
   </body>
