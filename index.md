@@ -10,7 +10,7 @@
 
     <title>Jialin Liu - DUT</title>
 
-    <!-- Bootstrap core CSS -->
+
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
   </head>
@@ -77,9 +77,7 @@
         <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
         HealthCom 2017
       </p>
-
-    </div> <!-- /container -->
-
+    </div> 
   </body>
 </html>
 
