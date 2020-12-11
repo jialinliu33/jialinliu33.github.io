@@ -14,8 +14,7 @@
           <hr>
           <p>Email: jialinliu at umass.edu</p>
           <p>Reseach Interests: Wireless Sensing; HCI; Mobile Computing</p>
-          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://github.com/jialinliu33">GitHub</a>
-          <p>
+          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://github.com/jialinliu33">GitHub</a></p>
           </div>
       </div>
       <hr style="clear:both"/>
