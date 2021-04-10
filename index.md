@@ -19,7 +19,7 @@
       </div>
       <hr style="clear:both"/>
       <h3>Publications</h3>
-      <p>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphones</a><br/>
+      <p>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone<br/>
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
       UbiComp 2021 (to appear)
       </p>
