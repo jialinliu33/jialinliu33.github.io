@@ -19,9 +19,9 @@
       </div>
       <hr style="clear:both"/>
       <h3>Publications</h3>
-      <p>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone<br/>
+      <p><a>BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</a><br/>
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
-      UbiComp 2021 (to appear)
+      IMWUT/UbiComp 2021 (to appear)
       </p>
       <p><a href="https://dl.acm.org/doi/pdf/10.1145/3384419.3430780">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
