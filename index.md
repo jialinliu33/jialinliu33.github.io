@@ -23,7 +23,7 @@
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
       IMWUT/UbiComp 2021 (to appear)
       </p>
-      <p><a href="https://dl.acm.org/doi/pdf/10.1145/3384419.3430780">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
+      <p><a href="paper/FM-Track.pdf">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
       SenSys 2020
       </p>
