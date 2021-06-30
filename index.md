@@ -13,7 +13,7 @@
           <p>Previously, I received my B.E. and M.E. degree at School of Software, Dalian University of Technology in 2015 and 2017, respectively.</p>
           <hr>
           <p>Email: jialinliu at umass.edu</p>
-          <p>Reseach Interests: Wireless Sensing; HCI; Mobile Computing</p>
+          <p>Research Interests: Wireless Sensing; HCI; Mobile Computing</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://github.com/jialinliu33">GitHub</a></p>
           </div>
       </div>
