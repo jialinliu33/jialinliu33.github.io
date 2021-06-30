@@ -19,11 +19,11 @@
       </div>
       <hr style="clear:both"/>
       <h3>Publications</h3>
-      <p><a href="paper/BlinkListener.pdf">BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</a><br/>
+      <p><a href="https://dl.acm.org/doi/abs/10.1145/3463521">BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</a><br/>
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
-      IMWUT/UbiComp 2021 (to appear)
+      IMWUT/UbiComp 2021
       </p>
-      <p><a href="paper/FM-Track.pdf">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
+      <p><a href="https://dl.acm.org/doi/abs/10.1145/3384419.3430780">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
       SenSys 2020
       </p>
