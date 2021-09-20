@@ -3,7 +3,7 @@
     <div style="max-width:1000px" class="container">
       <div class="page-header">
         <h2>Jialin Liu</h2>
-           <p class="lead">Ph.D. Candidate @ Dalian University of Technology & Visiting Ph.D. Student @ UMass Amherst</p>
+           <p class="lead">Ph.D. Candidate @ DUT & Visiting Ph.D. Student @ UMass Amherst</p>
       </div>
       <div class="content">
           <img src="images/jialinliu.JPG" class="img-responsive col-md-5"/>
