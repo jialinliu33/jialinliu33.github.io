@@ -2,7 +2,7 @@
   <body>
     <div style="max-width:1000px" class="container">
       <div class="page-header">
-        <h2>Jialin Liu 刘佳林</h2>
+        <h2>Jialin Liu (刘佳林)</h2>
            <p class="lead">Ph.D. Candidate @ DUT<br>Visiting Ph.D. Student @ UMass Amherst</p>
       </div>
       <div class="content">
