@@ -2,7 +2,7 @@
   <body>
     <div style="max-width:1000px" class="container">
       <div class="page-header">
-        <h2>Jialin Liu (刘佳林)</h2>
+        <h2>Jialin Liu 刘佳林</h2>
            <p class="lead">Ph.D. Candidate @ DUT<br>Visiting Ph.D. Student @ UMass Amherst</p>
       </div>
       <div class="content">
@@ -22,6 +22,7 @@
       <p><a href="https://dl.acm.org/doi/abs/10.1145/3463521">BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone</a><a href="https://www.youtube.com/watch?v=H-QOrw1m2Lw"><img src="images/yt_logo_rgb_light.png" height="10"></a><br/>
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
       IMWUT/UbiComp 2021
+      </p>
       <p><a href="https://dl.acm.org/doi/abs/10.1145/3384419.3430780">FM-Track: Pushing the Limits of Contactless Multi-target Tracking using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
       SenSys 2020
