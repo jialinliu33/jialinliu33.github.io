@@ -8,9 +8,9 @@
       <div class="content">
           <img src="images/jialinliu.JPG" class="img-responsive col-md-5"/>
           <div class="col-md-7">
-          <p>I'm a Ph.D. student at School of Software, Dalian University of Technology under the supervision of <a href="http://faculty.dlut.edu.cn/leiwang">Prof. Lei Wang</a>.</p>
-          <p>I'm also a visiting Ph.D. student at College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of <a href="https://people.cs.umass.edu/~jxiong/">Prof. Jie Xiong</a>, from 2019 to present.</p>
-          <p>Previously, I received my B.E. and M.E. degree at School of Software, Dalian University of Technology in 2015 and 2017, respectively.</p>
+          <p align="justify">I'm a Ph.D. student at School of Software, Dalian University of Technology under the supervision of <a href="http://faculty.dlut.edu.cn/leiwang">Prof. Lei Wang</a>.</p>
+          <p align="justify">I'm also a visiting Ph.D. student at the Manning College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of <a href="https://people.cs.umass.edu/~jxiong/">Prof. Jie Xiong</a>, from 2019 to present.</p>
+          <p align="justify">Previously, I received my B.E. and M.E. degree at School of Software, Dalian University of Technology in 2015 and 2017, respectively.</p>
           <hr>
           <p>Email: jialinliu at umass.edu</p>
           <p>Research Interests: Wireless Sensing; HCI; Mobile Computing</p>
@@ -68,6 +68,7 @@
       </p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
+    <p style="color:grey;">Last update: Jan 22, 2022</p>
   </body>
 
 
