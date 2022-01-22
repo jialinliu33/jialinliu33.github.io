@@ -66,7 +66,7 @@
       <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
       HealthCom 2017
       </p>
+      <p style="color:grey;">Last update: Jan 22, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
-    <p style="color:grey;">Last update: Jan 22, 2022</p>
   </body>
