@@ -23,6 +23,10 @@
       <li><b>01/2022</b>  Our paper <i>MOM</i> was conditionally accepted at IPSN '22.</li>
       <li><b>12/2021</b>  I was invited to give a talk about <i>BlinkListener</i> at HU-DUT Workshop (Hokkaido University & Dalian University of Technology).</li>
       <h3>Publications</h3>
+      <p><a href="papers/IMWUT21-LASense.pdf">LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals (To Appear)</a><br/>
+      Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
+      IMWUT/UbiComp 2022
+      </p>
       <p><a href="papers/IMWUT21-BlinkListener.pdf">BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone </a><a href="https://www.youtube.com/watch?v=H-QOrw1m2Lw&t=204s"><img src="images/yt_logo_rgb_light.png" height="10"></a><br/>
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
       IMWUT/UbiComp 2021
@@ -66,7 +70,7 @@
       <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
       HealthCom 2017
       </p>
-      <p style="color:grey;">Last update: Jan 22, 2022</p>
+      <p style="color:grey;">Last update: Feb 14, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
