@@ -27,7 +27,7 @@
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
       ACM IMWUT/UbiComp 2022 (To Appear)
       </p>
-      <p>MOM: Microphone based 3D Orientation Measurement<br/>
+      <p><a href="">MOM: Microphone based 3D Orientation Measurement</a><br/>
       Zhihui Gao, Ang Li, Dong Li, <b>Jialin Liu</b>, Jie Xiong, Yu Wang, Bing Li, Yiran Chen<br>
       ACM/IEEE IPSN 2022 (To Appear)
       </p>
