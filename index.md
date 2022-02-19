@@ -22,6 +22,7 @@
       <li><b>01/2022</b>  Our paper <i>LASense</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
       <li><b>12/2021</b>  I was invited to give a talk about <i>BlinkListener</i> at HU-DUT Workshop (Hokkaido University & Dalian University of Technology).</li>
+      <hr style="clear:both"/>
       <h3>Selected Publications (<a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Full List</a>)</h3>
       <p><a href="papers/IMWUT21-LASense.pdf">LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
