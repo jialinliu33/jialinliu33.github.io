@@ -19,7 +19,7 @@
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
-      <li><b>03/2022</b> I will be joining Duke ECE as a Ph.D. student this Fall! </li>
+      <li><b>03/2022</b> I will be joining Duke ECE as a Ph.D. student this fall! </li>
       <li><b>01/2022</b>  Our paper <i>LASense</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
       <li><b>12/2021</b>  I was invited to give a talk about <i>BlinkListener</i> at HU-DUT Workshop (Hokkaido University & Dalian University of Technology).</li>
