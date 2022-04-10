@@ -6,7 +6,7 @@
            <p class="lead">Ph.D. Candidate @ DUT; Visiting Ph.D. Student @ UMass Amherst</p>
       </div>
       <div class="content">
-          <img src="images/jialinliu.JPG" class="img-responsive col-md-5"/>
+          <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
           <p align="justify">I am a Ph.D. student at School of Software, Dalian University of Technology under the supervision of <a href="http://faculty.dlut.edu.cn/leiwang">Prof. Lei Wang</a>.</p>
           <p align="justify">I am visiting at the Manning College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of <a href="https://people.cs.umass.edu/~jxiong/">Prof. Jie Xiong</a>, from 2019 to present.</p>
