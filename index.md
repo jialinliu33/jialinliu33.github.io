@@ -1,6 +1,6 @@
 
   <body>
-    <div style="max-width:900px" class="container">
+    <div style="max-width:800px" class="container">
       <div class="page-header">
         <h2>Jialin Liu 刘佳林</h2>
            <p class="lead">Ph.D. Candidate @ DUT; Visiting Ph.D. Student @ UMass Amherst</p>
