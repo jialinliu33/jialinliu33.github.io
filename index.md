@@ -27,7 +27,7 @@
       <h3>Selected Publications (<a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Full List</a>)</h3>
       <p><a href="papers/IMWUT21-LASense.pdf">LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
-      ACM IMWUT/UbiComp 2022 (To Appear)
+      ACM IMWUT/UbiComp 2022
       </p>
       <p><a href="">MOM: Microphone based 3D Orientation Measurement</a><br/>
       Zhihui Gao, Ang Li, Dong Li, <b>Jialin Liu</b>, Jie Xiong, Yu Wang, Bing Li, Yiran Chen<br>
