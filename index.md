@@ -14,7 +14,7 @@
           <hr>
           <p>Email: jialinliu at umass.edu</p>
           <p>Research Interests: Wireless Sensing; HCI; Mobile Computing</p>
-          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a></p>
+          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV_May2022.pdf">CV</a></p>
           </div>
       </div>
       <hr style="clear:both"/>
