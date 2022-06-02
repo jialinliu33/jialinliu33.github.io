@@ -18,7 +18,7 @@
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
-      <li><b>06/2022</b> I passed my final defense! Now I am officially Dr. Jialin Liu. 🎓</li>
+      <li><b>06/2022</b> I passed my final defense! I am grateful to Prof. Lei Wang and Prof. Jie Xiong for their advising. 🎓</li>
       <li><b>03/2022</b> I will be joining Duke ECE as a Ph.D. student this fall! </li>
       <li><b>01/2022</b>  Our paper <i>LASense</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
