@@ -2,23 +2,23 @@
   <body>
     <div style="max-width:800px" class="container">
       <div class="page-header">
-        <h2>Jialin Liu 刘佳林</h2>
-           <p class="lead">Ph.D. Candidate @ DUT; Visiting Ph.D. Student @ UMass Amherst</p>
+        <h2><b>刘佳林 Jialin Liu</b>, Ph.D.</h2>
+           <p class="lead">Visiting scholar at UMass Amherst; Incoming Ph.D. student at Duke ECE</p>
       </div>
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
-          <p align="justify">I am a Ph.D. student at School of Software, Dalian University of Technology under the supervision of <a href="http://faculty.dlut.edu.cn/leiwang">Prof. Lei Wang</a>.</p>
-          <p align="justify">I am visiting at the Manning College of Information and Computer Sciences, University of Massachusetts Amherst under the supervision of <a href="https://people.cs.umass.edu/~jxiong/">Prof. Jie Xiong</a>, from 2019 to present.</p>
-          <p align="justify">I received my B.E. and M.E. degree at School of Software, Dalian University of Technology in 2015 and 2017, respectively.</p>
+          <p align="justify">I am a visiting scholar at UMass Amherst, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a>. I will be joining Duke University this fall to pursue my second Ph.D. degree in Electrical and Computer Engineering. I will be working with Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a> and Professor <a href="https://tingjunchen.com">Tingjun Chen</a> on AI-driven wireless networking.</p>
+          <p align="justify">I received my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022 (advisor: Professor <a href="http://faculty.dlut.edu.cn/leiwang">Lei Wang</a>).</p>
           <hr>
-          <p>Email: jialinliu at umass.edu</p>
-          <p>Research Interests: Wireless Sensing; HCI; Mobile Computing</p>
+          <p>Email: jialinliu at umass.edu | jialin.liu at duke.edu</p>
+          <p>Research Interests: Wireless Sensing; HCI; Mobile Computing; Wireless Networking</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV_May2022.pdf">CV</a></p>
           </div>
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
+      <li><b>06/2022</b> I passed my final defense! Now I am officially Dr. Jialin Liu. 🎓</li>
       <li><b>03/2022</b> I will be joining Duke ECE as a Ph.D. student this fall! </li>
       <li><b>01/2022</b>  Our paper <i>LASense</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
@@ -51,7 +51,13 @@
       <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
       IEEE HealthCom 2017
       </p>
-      <p style="color:grey;">Last update: Mar 23, 2022</p>
     </div> 
+    <hr style="clear:both"/>
+      <h3>Honors & Awards</h3>
+      <li>CSC Scholarship, 2019</li>
+      <li>China Graduate Contest on Application, Design and Innovation of Mobile-Terminal, Second Prize, 2017</li>
+      <li>China National Scholarship of Graduates, 2015</li>
+      <li>Mitsubishi Chemical Scholarship, 2013</li>
+      <p style="color:grey;">Last update: June 2, 2022</p>
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
