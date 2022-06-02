@@ -51,13 +51,13 @@
       <b>Jialin Liu</b>, Lei Wang, Linlin Guo, Jian Fang, Bingxian Lu, Wei Zhou<br>
       IEEE HealthCom 2017
       </p>
-    </div> 
-    <hr style="clear:both"/>
+      <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
       <li>CSC Scholarship, 2019</li>
       <li>China Graduate Contest on Application, Design and Innovation of Mobile-Terminal, Second Prize, 2017</li>
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <p style="color:grey;">Last update: June 2, 2022</p>
+    </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
