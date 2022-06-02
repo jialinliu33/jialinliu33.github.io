@@ -12,7 +12,7 @@
           <p align="justify">I received my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022 (advisor: Professor <a href="http://faculty.dlut.edu.cn/leiwang">Lei Wang</a>).</p>
           <hr>
           <p>Email: jialinliu at umass.edu | jialin.liu at duke.edu</p>
-          <p>Research Interests: Wireless Sensing; HCI; Mobile Computing; Wireless Networking</p>
+          <p>Research Interests: Wireless Sensing & Networking; Mobile Computing</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV_May2022.pdf">CV</a></p>
           </div>
       </div>
