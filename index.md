@@ -3,7 +3,7 @@
     <div style="max-width:800px" class="container">
       <div class="page-header">
         <h2>刘佳林 Jialin Liu, Ph.D.</h2>
-           <p class="lead">Visiting scholar at UMass Amherst; Incoming Ph.D. student at Duke ECE</p>
+           <p class="lead">Visiting scholar at UMass Amherst; Incoming Ph.D. student at Duke University</p>
       </div>
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
