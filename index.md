@@ -13,7 +13,7 @@
           <hr>
           <p>Email: jialinliu at umass.edu | jialin.liu at duke.edu</p>
           <p>Interests: Wireless Sensing & Networking; Mobile Computing</p>
-          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV_May2022.pdf">CV</a></p>
+          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
           </div>
       </div>
       <hr style="clear:both"/>
@@ -29,9 +29,9 @@
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
       ACM IMWUT/UbiComp 2022
       </p>
-      <p><a href="">MOM: Microphone based 3D Orientation Measurement</a><br/>
+      <p><a href="papers/IPSN22_MOM.pdf">MOM: Microphone based 3D Orientation Measurement</a><br/>
       Zhihui Gao, Ang Li, Dong Li, <b>Jialin Liu</b>, Jie Xiong, Yu Wang, Bing Li, Yiran Chen<br>
-      ACM/IEEE IPSN 2022 (To Appear)
+      ACM/IEEE IPSN 2022
       </p>
       <p><a href="papers/IMWUT21-BlinkListener.pdf">BlinkListener: “Listen” to Your Eye Blink Using Your Smartphone </a><a href="https://www.youtube.com/watch?v=H-QOrw1m2Lw&t=204s"><img src="images/yt_logo_rgb_light.png" height="10"></a><br/>
       <b>Jialin Liu</b>, Dong Li, Lei Wang, Jie Xiong <br>
@@ -53,12 +53,13 @@
       </p>
       <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
+      <li>Duke ECE Diversity Award, 2023</li>
       <li>CSC Scholarship, 2019</li>
       <li>China Graduate Contest on Application, Design and Innovation of Mobile-Terminal, Second Prize, 2017</li>
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: June 2, 2022</p>
+      <p style="color:grey;">Last update: June 5, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
