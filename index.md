@@ -53,7 +53,7 @@
       </p>
       <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
-      <li>Duke ECE Diversity Award, 2023</li>
+      <li>Duke ECE Diversity Award, 2022</li>
       <li>CSC Scholarship, 2019</li>
       <li>China Graduate Contest on Application, Design and Innovation of Mobile-Terminal, Second Prize, 2017</li>
       <li>China National Scholarship of Graduates, 2015</li>
