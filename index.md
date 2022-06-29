@@ -18,8 +18,9 @@
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
+      <li><b>06/2022</b> Serve as the Shadow PC on SenSys '22.</li>
       <li><b>06/2022</b> I passed my final defense! I am grateful to Prof. Lei Wang and Prof. Jie Xiong for their advising. 🎓</li>
-      <li><b>03/2022</b> I will be joining Duke ECE as a Ph.D. student this fall! </li>
+      <li><b>03/2022</b> I will be joining Duke ECE as a Ph.D. student this fall. </li>
       <li><b>01/2022</b>  Our paper <i>LASense</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
       <li><b>12/2021</b>  I was invited to give a talk about <i>BlinkListener</i> at HU-DUT Workshop (Hokkaido University & Dalian University of Technology).</li>
@@ -52,6 +53,9 @@
       IEEE HealthCom 2017
       </p>
       <hr style="clear:both"/>
+      <h3>Services</h3>
+      <li>Shadow Program Committee, SenSys 2022</li>
+      <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
       <li>Duke ECE Diversity Award, 2022</li>
       <li>CSC Scholarship, 2019</li>
@@ -59,7 +63,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: June 5, 2022</p>
+      <p style="color:grey;">Last update: June 28, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
