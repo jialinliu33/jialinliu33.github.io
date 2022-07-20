@@ -55,6 +55,7 @@
       <hr style="clear:both"/>
       <h3>Services</h3>
       <li>Shadow Program Committee, SenSys 2022</li>
+      <li>Reviewer, ISWC 2022</li>
       <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
       <li>Duke ECE Diversity Award, 2022</li>
