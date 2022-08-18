@@ -2,16 +2,17 @@
   <body>
     <div style="max-width:800px" class="container">
       <div class="page-header">
-        <h2>刘佳林 Jialin Liu, Ph.D.</h2>
-           <p class="lead">Visiting scholar at UMass Amherst; Incoming Ph.D. student at Duke University</p>
+        <h2>刘佳林 Jialin Liu</h2>
+           <p class="lead">Ph.D. student, Duke University</p>
       </div>
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
-          <p align="justify">I am a visiting scholar at UMass Amherst, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a>. I will be joining Duke University this fall to pursue my second Ph.D. degree in Electrical and Computer Engineering. I will be working with Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a> and Professor <a href="https://tingjunchen.com">Tingjun Chen</a> on AI-driven wireless networking.</p>
+          <p align="justify">I am a Ph.D. student in Electrical and Computer Engineering at Duke University, co-advised by Professor <a href="https://tingjunchen.com">Tingjun Chen</a> and Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>. Before joining Duke,
+          I was a visiting scholar at UMass Amherst, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a> on wireless sensing. </p>
           <p align="justify">I received my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022 (advisor: Professor <a href="http://faculty.dlut.edu.cn/leiwang">Lei Wang</a>).</p>
           <hr>
-          <p>Email: jialinliu at umass.edu | jialin.liu at duke.edu</p>
+          <p>Email: jialin.liu at duke.edu</p>
           <p>Interests: Wireless Sensing & Networking; Mobile Computing</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
           </div>
@@ -26,6 +27,10 @@
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
       <hr style="clear:both"/>
       <h3>Selected Publications (<a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Full List</a>)</h3>
+      <p><a href="">Enabling Contact-free Acoustic Sensing under Device Motion</a><br/>
+      <b>Jialin Liu</b>*, Dong Li*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution)<br>
+      ACM IMWUT/UbiComp 2022 (to appear)
+      </p>
       <p><a href="papers/IMWUT21-LASense.pdf">LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
       ACM IMWUT/UbiComp 2022
@@ -64,7 +69,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: July 20, 2022</p>
+      <p style="color:grey;">Last update: August 17, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
