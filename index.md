@@ -27,7 +27,7 @@
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
       <hr style="clear:both"/>
       <h3>Selected Publications (<a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Full List</a>)</h3>
-      <p><a href="">Enabling Contact-free Acoustic Sensing under Device Motion</a><br/>
+      <p><a href="papers/IMWUT22-SonicBot.pdf">Enabling Contact-free Acoustic Sensing under Device Motion</a><br/>
       <b>Jialin Liu</b>*, Dong Li*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution)<br>
       ACM IMWUT/UbiComp 2022 (to appear)
       </p>
@@ -63,13 +63,14 @@
       <li>Reviewer, ACM ISWC 2022</li>
       <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
+      <li>Duke ECE Graduate Student Conference Travel Fellowship, 2022</li>
       <li>Duke ECE Diversity Award, 2022</li>
       <li>CSC Scholarship, 2019</li>
       <li>China Graduate Contest on Application, Design and Innovation of Mobile-Terminal, Second Prize, 2017</li>
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: August 17, 2022</p>
+      <p style="color:grey;">Last update: August 24, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
