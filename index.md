@@ -8,17 +8,18 @@
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
-          <p align="justify">I am a Ph.D. student in Electrical and Computer Engineering at Duke University, co-advised by Professor <a href="https://tingjunchen.com">Tingjun Chen</a> and Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>. Before joining Duke,
+          <p align="justify">I am a first-year Ph.D. student in Electrical and Computer Engineering at Duke University, co-advised by Professor <a href="https://tingjunchen.com">Tingjun Chen</a> and Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>. Before joining Duke,
           I was a visiting scholar at UMass Amherst, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a> on wireless sensing. </p>
           <p align="justify">I received my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022 (advisor: Professor <a href="http://faculty.dlut.edu.cn/leiwang">Lei Wang</a>).</p>
           <hr>
           <p>Email: jialin.liu at duke.edu</p>
-          <p>Interests: Wireless Sensing & Networking; Mobile Computing</p>
+          <p>Interests: Wireless Sensing & Networking; Optical-Wireless Networks; Mobile Computing</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
           </div>
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
+      <li><b>09/2022</b>  Our paper was conditionally accepted at SenSys '22.</li>
       <li><b>07/2022</b>  Our paper <i>SonicBot</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>06/2022</b> Serve as the Shadow PC on SenSys '22.</li>
       <li><b>06/2022</b> I passed my final defense! I am grateful to Prof. Lei Wang and Prof. Jie Xiong for their advising. 🎓</li>
@@ -29,7 +30,7 @@
       <h3>Selected Publications (<a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Full List</a>)</h3>
       <p><a href="papers/IMWUT22-SonicBot.pdf">Enabling Contact-free Acoustic Sensing under Device Motion</a><br/>
       <b>Jialin Liu</b>*, Dong Li*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution)<br>
-      ACM IMWUT/UbiComp 2022 (to appear)
+      ACM IMWUT/UbiComp 2022
       </p>
       <p><a href="papers/IMWUT21-LASense.pdf">LASense: Pushing the Limits of Fine-grained Activity Sensing Using Acoustic Signals</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong <br>
@@ -70,7 +71,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: August 24, 2022</p>
+      <p style="color:grey;">Last update: September 13, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
