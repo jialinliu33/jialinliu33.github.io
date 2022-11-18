@@ -28,9 +28,9 @@
       <li><b>01/2022</b>  Our paper <i>MOM</i> was accepted at IPSN '22.</li>
       <hr style="clear:both"/>
       <h3>Selected Publications (<a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Full List</a>)</h3>
-      <p><a href="">Room-scale Hand Gesture Recognition Using Smart Speakers</a><br/>
+      <p><a href="papers/SenSys22-SpeakerGesture.pdf">Room-scale Hand Gesture Recognition Using Smart Speakers</a><br/>
       Dong Li, <b>Jialin Liu</b>, Sunghoon Ivan Lee, Jie Xiong<br>
-      ACM SenSys 2022 (to appear)
+      ACM SenSys 2022
       </p>
       <p><a href="papers/IMWUT22-SonicBot.pdf">Enabling Contact-free Acoustic Sensing under Device Motion</a><br/>
       <b>Jialin Liu</b>*, Dong Li*, Lei Wang, Fusang Zhang, Jie Xiong (*Equal contribution)<br>
@@ -76,7 +76,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: October 16, 2022</p>
+      <p style="color:grey;">Last update: Nov 17, 2022</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
