@@ -19,7 +19,7 @@
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
-      <li><b>05/2023</b>  On leave since 12/2022. Will be back in Fall 2024. Check my boys A&B here!</li>
+      <li><b>06/2023</b>  On leave since 12/2022. Will be back in Fall 2024. Check my boys <a href="images/ab.jpg">A&B</a> here!</li>
       <li><b>10/2022</b>  Our paper was accepted at SenSys '22.</li>
       <li><b>07/2022</b>  Our paper <i>SonicBot</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>06/2022</b> Serve as the Shadow PC on SenSys '22.</li>
@@ -77,7 +77,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: May 30, 2023</p>
+      <p style="color:grey;">Last update: June 11, 2023</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
