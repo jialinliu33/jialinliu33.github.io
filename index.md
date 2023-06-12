@@ -8,7 +8,7 @@
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
-          <p align="justify">I am a first-year Ph.D. student in Electrical and Computer Engineering at Duke University, co-advised by Professor <a href="https://tingjunchen.com">Tingjun Chen</a> and Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>. Before joining Duke,
+          <p align="justify">I am a Ph.D. student in Electrical and Computer Engineering at Duke University, co-advised by Professor <a href="https://tingjunchen.com">Tingjun Chen</a> and Professor <a href="https://ece.duke.edu/faculty/yiran-chen">Yiran Chen</a>. Before joining Duke,
           I was a visiting scholar at UMass Amherst, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a> on wireless sensing. </p>
           <p align="justify">I received my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022 (advisor: Professor <a href="http://faculty.dlut.edu.cn/leiwang">Lei Wang</a>).</p>
           <hr>
@@ -19,6 +19,7 @@
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
+      <li><b>05/2023</b>  On leave since 12/2022. Will be back in Fall 2024. Check my boys A&B here!</li>
       <li><b>10/2022</b>  Our paper was accepted at SenSys '22.</li>
       <li><b>07/2022</b>  Our paper <i>SonicBot</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>06/2022</b> Serve as the Shadow PC on SenSys '22.</li>
@@ -76,7 +77,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: Nov 17, 2022</p>
+      <p style="color:grey;">Last update: May 30, 2023</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
