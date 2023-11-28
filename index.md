@@ -20,7 +20,7 @@
       <hr style="clear:both"/>
       <h3>News</h3>
       <li><b>06/2023</b>  On leave since 12/2022. Will be back in Fall 2024. Check my boys <a href="images/ab.jpg">A&B</a> here!</li>
-      <li><b>10/2022</b>  Our paper was accepted at SenSys '22.</li>
+      <li><b>10/2022</b>  Our paper <i>SpeakerGesture</i> was accepted at SenSys '22.</li>
       <li><b>07/2022</b>  Our paper <i>SonicBot</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>06/2022</b> Serve as the Shadow PC on SenSys '22.</li>
       <li><b>06/2022</b> I passed my final defense! I am grateful to Prof. Lei Wang and Prof. Jie Xiong for their advising. 🎓</li>
@@ -65,19 +65,20 @@
       </p>
       <hr style="clear:both"/>
       <h3>Services</h3>
-      <li>Reviewer, IEEE Transactions on Mobile Computing, 2022</li>
+      <li>Reviewer, ACM IMWUT/UbiComp 2023</li>
+      <li>Reviewer, IEEE Transactions on Mobile Computing 2022, 2023</li>
       <li>Shadow Program Committee, ACM SenSys 2022</li>
       <li>Reviewer, ACM ISWC 2022</li>
       <hr style="clear:both"/>
       <h3>Honors & Awards</h3>
-      <li>Duke ECE Graduate Student Conference Travel Fellowship, 2022</li>
+      <li> ACM Dalian Doctoral Dissertation Award, 2023</li>
       <li>Duke ECE Diversity Award, 2022</li>
       <li>CSC Scholarship, 2019</li>
       <li>China Graduate Contest on Application, Design and Innovation of Mobile-Terminal, Second Prize, 2017</li>
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update: June 11, 2023</p>
+      <p style="color:grey;">Last update: November 28, 2023</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
