@@ -14,12 +14,12 @@
           <hr>
           <p>Email: jialin.liu at duke.edu</p>
           <p>Interests: Wireless Sensing & Networking; Optical-Wireless Networks; Mobile Computing</p>
-          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl=zh-CN">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
+          <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
           </div>
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
-      <li><b>06/2023</b>  On leave since 12/2022. Will be back in Fall 2024. Check my boys <a href="images/ab.jpg">A&B</a> here!</li>
+      <li><b>12/2022</b>  Parental leave.</li>
       <li><b>10/2022</b>  Our paper <i>SpeakerGesture</i> was accepted at SenSys '22.</li>
       <li><b>07/2022</b>  Our paper <i>SonicBot</i> was accepted at IMWUT (UbiComp '22).</li>
       <li><b>06/2022</b> Serve as the Shadow PC on SenSys '22.</li>
