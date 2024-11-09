@@ -10,7 +10,7 @@
           <div class="col-md-7">
           <p align="justify">My research vision is to create cost-effective sensing systems for mobile and IoT devices, enabling innovative applications across diverse fields. My interests span wireless sensing, networking, mobile computing, smart health, and human-computer interaction.</p>
           <p align="justify">I obtained my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022, under the supervision of Professor Lei Wang. I was a visiting scholar at UMass Amherst from 2019 to 2022, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a> on wireless sensing and mobile computing. </p>
-          <p align="justify" style="color: red; background-color: #ffebee; padding: 10px;">I am now actively seeking postdoctoral and lecturer positions to further contribute to research and teaching in Computer Science, Software Engineering, and Information Systems.
+          <p align="justify" style="color: red; background-color: #ffebee; padding: 10px;">I am now actively seeking postdoctoral or lecturer positions to further contribute to research and teaching in Computer Science, Software Engineering, or Information Systems.
           </p>
           <p>Email: jialin.k.liu at gmail.com</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
