@@ -8,7 +8,7 @@
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
-          <p align="justify">My research vision is to develop cost-effective sensing systems for mobile and IoT devices to enable novel applications. My research interests lie in wireless sensing and networking, mobile computing, smart health, and human computer interaction.</p>
+          <p align="justify">My research vision is to create cost-effective sensing systems for mobile and IoT devices, enabling innovative applications across diverse fields. My interests span wireless sensing, networking, mobile computing, smart health, and human-computer interaction.</p>
           <p align="justify">I obtained my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022, under the supervision of Professor Lei Wang. I was a visiting scholar at UMass Amherst from 2019 to 2022, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a> on wireless sensing and mobile computing. </p>
           <p align="justify" style="color: red; background-color: #ffebee; padding: 10px;">I am now actively seeking postdoctoral and lecturer positions to further contribute to research and teaching in Computer Science, Software Engineering, and Information Systems.
           </p>
@@ -18,7 +18,7 @@
       </div>
       <hr style="clear:both"/>
       <h3>News</h3>
-      <li><b>05/2024</b>  After much consideration, I have made the difficult decision to withdraw from my doctoral program at Duke University to prioritize my family and new responsibilities. This decision was not easy, and I am incredibly grateful for the guidance and support of my advisors, Prof. Yiran Chen and Prof. Tingjun Chen. Their mentorship has been invaluable in my journey, both personally and professionally, and I will carry the knowledge and insights they shared with me forward in my career.</li>
+      <li align="justify"><b>05/2024</b>  After much consideration, I have made the difficult decision to withdraw from my doctoral program at Duke University to prioritize my family and new responsibilities. This decision was not easy, and I am incredibly grateful for the guidance and support of my advisors, Prof. Yiran Chen and Prof. Tingjun Chen. Their mentorship has been invaluable in my journey, both personally and professionally, and I will carry the knowledge and insights they shared with me forward in my career.</li>
       <li><b>06/2023</b>  Leave of absence.</li>
       <li><b>10/2022</b>  Our paper <i>SpeakerGesture</i> was accepted at SenSys '22.</li>
       <li><b>07/2022</b>  Our paper <i>SonicBot</i> was accepted at IMWUT (UbiComp '22).</li>
