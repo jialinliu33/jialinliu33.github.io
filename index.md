@@ -2,15 +2,15 @@
   <body>
     <div style="max-width:800px" class="container">
       <div class="page-header">
-        <h2>刘佳林 Jialin Liu</h2>
-           <p class="lead">Ph.D. in Software Engineering</p>
+        <h2>Jialin Liu, Ph.D.</h2>
+           <p class="lead">Independent Researcher in Washington DC-Baltimore Area</p>
       </div>
       <div class="content">
           <img src="images/jialinliu.jpg" class="img-responsive col-md-5"/>
           <div class="col-md-7">
           <p align="justify">My research vision is to create cost-effective sensing systems for mobile and IoT devices, enabling innovative applications across diverse fields. My interests span wireless sensing, networking, mobile computing, smart health, and human-computer interaction.</p>
           <p align="justify">I obtained my Ph.D. degree in Software Engineering from Dalian University of Technology in 2022, under the supervision of Professor Lei Wang. I was a visiting scholar at UMass Amherst from 2019 to 2022, working with Professor <a href="https://people.cs.umass.edu/~jxiong/">Jie Xiong</a> on wireless sensing and mobile computing. </p>
-          <p align="justify" style="color: red; background-color: #ffebee; padding: 10px;">I am now actively seeking postdoctoral or lecturer positions to further contribute to research and teaching in Computer Science, Software Engineering, or Information Systems.
+          <p align="justify" style="color: red; background-color: #ffebee; padding: 10px;">I am now actively seeking postdoctoral or lecturer positions to further contribute to research and teaching in Computer Science, Software Engineering, Information Systems and related areas.
           </p>
           <p>Email: jialin.k.liu at gmail.com</p>
           <p><a href="https://scholar.google.com/citations?user=57GlfUQAAAAJ&hl">Google Scholar</a> | <a href="https://www.linkedin.com/in/jialin-liu-04221a223/">LinkedIn</a> | <a href="Jialin_CV.pdf">CV</a></p>
@@ -77,7 +77,7 @@
       <li>China National Scholarship of Graduates, 2015</li>
       <li>Mitsubishi Chemical Scholarship, 2013</li>
       <hr style="clear:both"/>
-      <p style="color:grey;">Last update on November 9, 2024</p>
+      <p style="color:grey;">Last update on December 5, 2024</p>
     </div> 
     <a href="http://www.clustrmaps.com/map/Jialinliu.me" title="Visit tracker for Jialinliu.me"><img src="//www.clustrmaps.com/map_v2.png?d=GUWi9f_jwPjZdg4kJ88UtA5khIiU9ofay5he0XY54c8" style="display: none;" /></a>
   </body>
